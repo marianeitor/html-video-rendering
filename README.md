@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Installing ffmpeg
@@ -25,3 +26,6 @@ For starting run npm start.
 You can change paths of html animation and output mp4 file in index.js
 
 Background video should be named bg.mp4 and be placed on same folder
+=======
+# html-video-rendering
+>>>>>>> main
