@@ -1,0 +1,20 @@
+{
+  "name": "html-video-rendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianeitor/html-video-rendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianeitor/html-video-rendering/issues"
+  },
+  "homepage": "https://github.com/marianeitor/html-video-rendering#readme"
+}
